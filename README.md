@@ -1,1 +1,1 @@
-# Panacea-TheCOVIDapp
+# Panacea
